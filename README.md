@@ -1,4 +1,5 @@
 # SkoHub Pages
+test
 
 This is an example repository (formerly named `skohub-docker-vocabs`) to show how you can publish your SKOS vocabulary using GitHub infrastructure (Actions and Pages).
 
